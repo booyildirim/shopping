@@ -1,0 +1,7 @@
+*.iml
+product-catalog-service/.idea
+product-catalog-service/target
+shopping-cart-service/target/maven-status/maven-compiler-plugin/compile/default-compile
+*.class
+shopping-cart-service/target
+shopping-cart-service/.idea
